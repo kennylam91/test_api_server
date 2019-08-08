@@ -11,6 +11,30 @@
       "username": "admin2",
       "password": "admin2",
       "status": "offline"
+    },
+    {
+      "id": 3,
+      "username": "lampv",
+      "password": "lampv",
+      "status": "offline"
+    },
+    {
+      "id": 4,
+      "username": "tuananh123",
+      "password": "tuananh123",
+      "status": "online"
+    },
+    {
+      "id": 5,
+      "username": "dat123",
+      "password": "dat123",
+      "status": "offline"
+    },
+    {
+      "id": 6,
+      "username": "lampro",
+      "password": "lampro",
+      "status": "online"
     }
   ],
   "messages": [
@@ -23,6 +47,31 @@
       "id": 2,
       "username": "admin2",
       "content": "xin chao"
+    },
+    {
+      "id": 3,
+      "username": "lampv",
+      "content": "good morning"
+    },
+    {
+      "id": 4,
+      "username": "tuananh123",
+      "content": "xin chao aaaaaa"
+    },
+    {
+      "id": 5,
+      "username": "dat123",
+      "content": "good afternoon"
+    },
+    {
+      "id": 6,
+      "username": "lampro",
+      "content": "Good evening"
+    },
+    {
+      "id": 7,
+      "username": "lampro",
+      "content": "xin chao kakakakaka"
     }
   ]
 }
