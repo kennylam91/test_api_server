@@ -1,0 +1,27 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin", 
+      "status": "online",
+    },
+    {
+      "id": 2,
+      "username": "admin1",
+      "password": "admin1", 
+      "status": "online",
+    }
+  ],
+  "message": [
+  {
+    "id": 1,
+    "username": "admin1",
+    "content": "Xin chao",
+  },
+  {
+    "id": 2,
+    "username": "admin",
+    "content":" Tam biet",
+  },
+}
