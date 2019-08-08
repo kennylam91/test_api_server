@@ -16,10 +16,12 @@
   "messages": [
     {
       "id": 1,
+      "username": "admin1",
       "content": "some comment"
     },
     {
       "id": 2,
+      "username": "admin2",
       "content": "xin chao"
     }
   ]
