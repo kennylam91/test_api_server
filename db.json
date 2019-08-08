@@ -1,23 +1,11 @@
 {
-  "user": [
+  "posts": [
     {
       "id": 1,
-      "username": "admin",
-      "password": "admin", 
-      "status": "online",
-    },
-    {
-      "id": 2,
-      "username": "admin1",
-      "password": "admin1", 
-      "status": "online",
+      "title": "hello"
     }
   ],
-  "message": [
-  {
-    "id": 1,
-    "username": "admin1",
-    "content": "Xin chao",
+  "profile": {
+    "name": "typicode"
   }
-]
 }
