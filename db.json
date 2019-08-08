@@ -35,6 +35,12 @@
       "username": "lampro",
       "password": "lampro",
       "status": "online"
+    },
+    {
+      "id": 7,
+      "username": "admin",
+      "password": "admin",
+      "status": "online"
     }
   ],
   "messages": [
@@ -72,6 +78,11 @@
       "id": 7,
       "username": "lampro",
       "content": "xin chao kakakakaka"
+    },
+    {
+      "id": 8,
+      "username": "lampro",
+      "content": "byeeeeeeeeeee"
     }
   ]
 }
